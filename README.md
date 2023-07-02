@@ -67,3 +67,8 @@ return Result.success(empList);
     ]
 }
 ```
+**访问emp文件**
+```
+http://localhost:8080/emp.html
+```
+![img.png](img.png)
